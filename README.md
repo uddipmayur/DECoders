@@ -82,3 +82,5 @@ Escalate issues ⚠️ directly to higher authorities
 🤖 AI/ML: Face API.js (For facial recognition)
 
 This solution enhances efficiency, reduces fraud, and ensures transparency in Anganwadi centre operations. 🚀
+
+Our project documentation: https://drive.google.com/file/d/1wm27llhNlQXHN4YoKxECXiNSxBRARPOC/view?usp=drivesdk
